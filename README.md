@@ -20,8 +20,8 @@ This project is divided into the following sections:
 2. Loading dataset
 3. Exploring dataset
 4. Clustering using k-means
-5.Interpretation of clusters
-6.Visualization of clusters using PCA
+5. Interpretation of clusters
+6. Visualization of clusters using PCA
 
 #### Installations:
 *Numpy
